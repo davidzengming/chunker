@@ -12,3 +12,6 @@ Setting this up is easy:
 Notes:
 - OpenAI key is exposed, but hopefully it is not abused
 - `MAX_SOUPS` can be set to `None` to perform full scraping
+
+Update:
+- The OpenAI key shown in the repo has been disabled by OpenAI and cannot be shown on Github. Please contact separately for API key.
